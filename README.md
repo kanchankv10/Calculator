@@ -25,9 +25,7 @@ simple-calculator/
 
 Make sure you have Python 3.x installed on your system.
 
-Clone this repository:
 
-git clone https://github.com/your-username/simple-calculator.git
 
 
 Navigate to the project folder:
